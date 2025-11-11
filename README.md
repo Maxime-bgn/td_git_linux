@@ -1,6 +1,6 @@
 # td_git_linux
 not blank between line 2 to 6
-"hello
-you
-are 
-my friend"
+"If at
+first you don't succeed, 
+try, 
+try again.	"
